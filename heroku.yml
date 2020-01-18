@@ -1,3 +1,7 @@
-build: 
+build:
+  config:
+    PGADMIN_LISTEN_PORT: $port
+    PGADMIN_DEFAULT_EMAIL: user@domain.com
+    PGADMIN_DEFAULT_PASSWORD: teste
   docker:
     web: Dockerfile
