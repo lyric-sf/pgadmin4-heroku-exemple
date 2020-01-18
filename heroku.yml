@@ -1,4 +1,6 @@
 build:
+  setup:
+    PGADMIN_LISTEN_PORT: $PORT
   config:
     PGADMIN_LISTEN_PORT: $PORT
     PGADMIN_DEFAULT_EMAIL: user@domain.com
