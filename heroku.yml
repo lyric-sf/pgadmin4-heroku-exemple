@@ -1,6 +1,6 @@
 build:
   config:
-    PGADMIN_LISTEN_PORT: $port
+    PGADMIN_LISTEN_PORT: $PORT
     PGADMIN_DEFAULT_EMAIL: user@domain.com
     PGADMIN_DEFAULT_PASSWORD: teste
   docker:
