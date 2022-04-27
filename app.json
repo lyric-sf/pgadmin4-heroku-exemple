@@ -1,18 +1,18 @@
 {
-  "name": "Hasura GraphQL Engine",
-  "description": "Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control and webhook triggers for async business logic.",
-  "logo": "https://storage.googleapis.com/hasura-graphql-engine/console/assets/favicon.png",
+  "name": "pgadmin4",
+  "description": "Basic install of pgadmin",
+  "logo": "",
   "keywords": [
     "database",
-    "api",
-    "graphql",
+    "tools",
+    "pg",
     "heroku",
     "postgres",
-    "hasura"
+    "pgadmin"
   ],
   "success_url": "/console",
-  "website": "https://hasura.io",
-  "repository": "https://github.com/hasura/graphql-engine-heroku",
+  "website": "",
+  "repository": "https://github.com/lyric-sf/pgadmin4-heroku-exemple",
   "formation": {
     "web": {
       "quantity": 1,
