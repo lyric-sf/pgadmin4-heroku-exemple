@@ -16,7 +16,7 @@
   "formation": {
     "web": {
       "quantity": 1,
-      "size": "private-m"
+      "size": "Private-M"
     }
   },
   "stack": "container",
