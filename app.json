@@ -15,8 +15,7 @@
   "repository": "https://github.com/lyric-sf/pgadmin4-heroku-exemple",
   "formation": {
     "web": {
-      "quantity": 1,
-      "size": "Private-M"
+      "quantity": 1
     }
   },
   "stack": "container",
